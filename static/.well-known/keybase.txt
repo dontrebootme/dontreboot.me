@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/dontrebootme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dontreboot.me
+  * I am dontrebootme (https://keybase.io/dontrebootme) on keybase.
+  * I have a public key with fingerprint A625 9863 67A4 3228 DA70  03FA 97F2 25A1 9938 8A87
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dedfbb4d50d4c26861a2154d6a7aafcbdc22221a5ddbe6b71ed3f2963e459b120a",
+      "fingerprint": "a625986367a43228da7003fa97f225a199388a87",
+      "host": "keybase.io",
+      "key_id": "97f225a199388a87",
+      "kid": "0101dda16b2871c9b99bd75ed92f62b7f7f81e9f663c64e14b26aa13340ead5a88180a",
+      "uid": "1dcd9fcb1d78fb54fac65af35bbf7400",
+      "username": "dontrebootme"
+    },
+    "merkle_root": {
+      "ctime": 1541437071,
+      "hash_meta": "a95b7bcdabe0e5f7eb6b3ffccf148cc6e9b956b75520c252b2580119f139331b",
+      "seqno": 3899386
+    },
+    "revoke": {
+      "sig_ids": [
+        "8b7b56a3d7a3f186c0ef045c3220ac5ebcb239171f2eb43b70dab2da92b5483c0f"
+      ]
+    },
+    "service": {
+      "hostname": "dontreboot.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1541437077,
+  "expire_in": 157680000,
+  "prev": "c3c863a1c12778a714468c3acc041ddec79eb575efd7bd29dcadb57a1bace6dd",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMP9AnicbZN7bBRFHMePp1CoFBNFoLw2bQimNDs7u7O7B4pQXilpKxqFUsw5r+XO
+trfXvb1qWylKYsHyUgq0QJHyCEHFHoi8gkpAQChBUKTyUglaSBUr2JZHJehso9Go
+88/mN/ud3+/7+8xvDid28yV0qf41dcNqo3JBlxOHymK+vMvFK8skYrMSyV8m5fPO
+Dy9gPOoG8kNM8ksykAHjzCJEZZrMVKogAwGsAE1lCOsYW5QwqogFsMYY4YjogDNo
+KSaCXNVMAhQZS2mSFQrP4U7ECYVdkRYjRTMNBJGOVagoBsO6LEMLm7qlKBoGpgkN
+Axu6OBi0o94JYY7gKE8P2WJPBIFOe/+j/4dvhgEiiqEDahLTJEzXODMVCylEt3TL
+ANy0EIIUqRyoREEYAwhVmWOmYcMARqfvWGc6wCgzRauA6YZFNNXCFGnYghohlq7K
+sieMcieMC7lQMzvsOpzYtivCuWlSIXfyC3jAERseYOqGPJlACFSoyzoQTeJoMFDI
+XeyxMTWiE8ow4TLXLJ0TRKBlUWoB1aAUcdGMJjBrmiJTRVOIohkyAKYFoAkhIMJL
+lBeFbckPDY8LEg4cXmznc694NDRHoItK/jzJEGU0hCHTMbSAgajMLVnVqLgQGVON
+E0oUaAIdWAonKiS6LDwpDJuKIGBAKlvS83O9Yk5xiHYm9+7qPwzSRZwmRRzbtald
+IH4FXTcS9Xtg3JKIp32Jk8CfWQIkFGZiVMSJYu5EQ3ZYgBLKfzPT0yT+ciTk8EDI
+U2g6MmSxvDq8WKSkkIrxwoACRdcNrANVRQaFmFJZFYPBqW5yoomBsJhOmGIyipmI
+MSCYcsTY3xA1KHziOSKnQBfGbswRd3ro4Ozuvi4Jvp49unpvyJfQO+mvlzVkd7+O
+bjPSa6b91H4ws+eV3DJf5sU9L5h964/mL/09uZcv+ez8qUvvrrg9M16/7LE1ydOu
+w+iOS063N3rMAx+NKP0g++ykO/tqxr5969a1e4WVqb2/GN64+8Fw1cR4/d44SupR
+/l7hvQsREGvctDPvXuqni/dUt89y+7cvrL3U/UTvtqfQd8PekXodO7do65YJBzou
+NgVvxZ+uOkAzpo8c9MDUwhvDrboj2dF4w5WHGmJNSROHjFr4VeamwIDy0fHLG7IG
+jpu1fN2whp1ZzfPCA99v+TDt+5Su8+eVR/Y3z5iS9Ui2m5R3AYFTz4Llb/qDuQNP
+rx9/vFfLmMFZ4zsy/ZWrYpV9Pzs+oIHvWnSz/FRmxpcFV1Ok0p3hZLX52Otbook/
+j2zLSGk5l/ZjUl519rZJiZ/kHn7xXF1SSca2oUH/ggF3d42e3idcNGpmbmvF1pqh
+kWUn1zb1vVF0f3RVgDeufzdj950jOVdv4v1t8tTY7MT46jo5ce7aysrNY888biSv
+ONWyK2FHa2NT9+056evOjmhufTVxn/poo91xZmO/FVOur5xx+vKTx8rLSsoGx/v4
+Vy1J/eaHI77t8OPSnKYq5XM3fmjP4pT+R2tug5GbOwaN2Xue1B8ftGT2E698+9yd
+SeeDPd862RoyS3+5ti2vYv3d+2tWX3fHjPt6ycMTXmurrR5xsbnimVpzo7/RbWd1
+v6nZQ4pWTa5oR38AQ10LYg==
+=dGus
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dontrebootme
+
+==================================================================
+
